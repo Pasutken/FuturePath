@@ -1,0 +1,7 @@
+Flask==2.3.3
+Authlib==1.2.1
+Flask-MySQLdb==1.0.1
+mysql-connector-python==8.1.0
+requests==2.31.0
+python-dotenv==1.0.0
+marked==1.0.2

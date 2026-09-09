@@ -1,0 +1,43 @@
+﻿Job_ID,Job_Title,Category,Location,Work_Model,Years_Experience,Salary_THB,Skills_Required,Degree,Experience_Level
+TH001,Frontend Developer,Software Development,Bangkok,Hybrid,2.0,35000.0,React|JavaScript|Tailwind,Computer Science,Junior
+TH002,Backend Developer,Software Development,Bangkok,Remote,3.0,45000.0,Node.js|MongoDB|Express,IT,Mid-level
+TH003,Data Scientist,Data,Chiang Mai,On-site,4.0,75000.0,Python|Machine Learning|SQL,Data Science,Mid-level
+TH004,DevOps Engineer,Infrastructure,Bangkok,Hybrid,3.0,65000.0,Docker|Kubernetes|AWS,Computer Engineering,Mid-level
+TH005,System Analyst,IT Support,Bangkok,On-site,5.0,55000.0,UML|SQL|Requirement Gathering,MIS,Mid-level
+TH006,Mobile Developer (iOS),Software Development,Bangkok,Hybrid,2.0,40000.0,Swift|iOS SDK,Computer Science,Junior
+TH007,Data Engineer,Data,Nonthaburi,Remote,4.0,80000.0,Python|Spark|Airflow,Computer Engineering,Mid-level
+TH008,IT Support Specialist,IT Support,Bangkok,On-site,1.0,20000.0,Windows OS|Hardware|LAN,IT,Junior
+TH009,Full Stack Developer,Software Development,Bangkok,Hybrid,3.0,50000.0,React|Node.js|MongoDB,Computer Science,Mid-level
+TH010,Cybersecurity Analyst,Infrastructure,Bangkok,Hybrid,4.0,70000.0,SIEM|Vulnerability Scan,Cybersecurity,Mid-level
+TH011,AI Engineer,Data,Bangkok,Remote,3.0,85000.0,Python|PyTorch|RAG|LLMs,Computer Science,Mid-level
+TH013,QA Automation,Software Development,Chiang Mai,Hybrid,3.0,45000.0,Selenium|Python|Robot Framework,IT,Mid-level
+TH014,Database Administrator,Data,Bangkok,On-site,5.0,65000.0,Oracle|SQL Server|Tuning,Computer Science,Mid-level
+TH015,Cloud Engineer,Infrastructure,Bangkok,Remote,4.0,75000.0,AWS|Terraform|Linux,Computer Engineering,Mid-level
+TH016,Backend Developer (Java),Software Development,Bangkok,Hybrid,4.0,60000.0,Java|Spring Boot|SQL,Computer Science,Mid-level
+TH017,Business Analyst,IT Support,Bangkok,On-site,3.0,45000.0,Process Modeling|Agile|Excel,Business Administration,Mid-level
+TH018,Machine Learning Engineer,Data,Phuket,Remote,5.0,90000.0,Python|TensorFlow|MLOps,Data Science,Mid-level
+TH019,Network Engineer,Infrastructure,Bangkok,On-site,2.0,30000.0,Cisco|Firewall|Routing,Telecommunication,Junior
+TH020,Senior Frontend Developer,Software Development,Bangkok,Hybrid,6.0,110000.0,React|Next.js|TypeScript,Computer Science,Senior
+TH021,Data Analyst,Data,Bangkok,Hybrid,1.0,28000.0,SQL|Power BI|Excel,Statistics,Junior
+TH022,Mobile Developer (Android),Software Development,Khon Kaen,Remote,2.0,35000.0,Kotlin|Android SDK,IT,Junior
+TH023,Site Reliability Engineer,Infrastructure,Bangkok,Hybrid,5.0,95000.0,Go|Prometheus|Linux,Computer Engineering,Mid-level
+TH024,Helpdesk Technician,IT Support,Bangkok,On-site,0.0,18000.0,Ticketing System|Remote Desktop,Vocational IT,Junior
+TH025,Software Architect,Software Development,Bangkok,Hybrid,8.0,150000.0,System Design|Microservices,Computer Science,Senior
+TH027,Penetration Tester,Infrastructure,Bangkok,Remote,4.0,80000.0,Kali Linux|Burp Suite|Web Security,Cybersecurity,Mid-level
+TH028,Backend Developer (C#),Software Development,Chonburi,On-site,3.0,45000.0,C#|.NET Core|SQL Server,IT,Mid-level
+TH029,Senior Data Engineer,Data,Bangkok,Hybrid,7.0,130000.0,Kafka|BigQuery|Python,Computer Engineering,Senior
+TH030,IT Operations Engineer,IT Support,Bangkok,On-site,2.0,25000.0,Zabbix|Network Basics,IT,Junior
+TH031,Frontend Developer (Vue),Software Development,Bangkok,Remote,3.0,40000.0,Vue.js|JavaScript|CSS,Computer Science,Mid-level
+TH034,Scrum Master,Software Development,Bangkok,Hybrid,4.0,70000.0,Agile|Jira|Facilitation,IT,Mid-level
+TH035,BI Developer,Data,Bangkok,On-site,3.0,45000.0,Power BI|SQL|Data Warehouse,MIS,Mid-level
+TH036,Senior Backend Developer,Software Development,Bangkok,Remote,6.0,120000.0,Golang|Kubernetes|gRPC,Computer Science,Senior
+TH037,IT Manager,IT Support,Bangkok,On-site,10.0,140000.0,IT Strategy|Budgeting|Management,MBA,Senior
+TH038,Cloud Architect,Infrastructure,Bangkok,Hybrid,8.0,160000.0,AWS|Azure|Enterprise Architecture,Computer Engineering,Senior
+TH041,Security Engineer,Infrastructure,Bangkok,On-site,3.0,60000.0,Firewall|Endpoint Security|IAM,IT,Mid-level
+TH042,Mobile Developer (Flutter),Software Development,Bangkok,Hybrid,2.0,38000.0,Flutter|Dart|Firebase,Computer Science,Junior
+TH043,Data Governance Analyst,Data,Bangkok,On-site,4.0,65000.0,Data Quality|PDPA|SQL,Law,Mid-level
+TH044,System Administrator,Infrastructure,Rayong,On-site,5.0,55000.0,Windows Server|VMware|Active Directory,IT,Mid-level
+TH045,ERP Consultant,IT Support,Bangkok,Hybrid,4.0,75000.0,SAP|Business Process,Accounting,Mid-level
+TH046,Game Developer,Software Development,Bangkok,On-site,2.0,35000.0,Unity|C#|3D Math,Multimedia,Junior
+TH048,Network Security Engineer,Infrastructure,Bangkok,Hybrid,5.0,85000.0,Palo Alto|Fortinet|VPN,Computer Engineering,Mid-level
+TH049,Application Support,IT Support,Bangkok,On-site,2.0,28000.0,Basic SQL|Log Analysis,IT,Junior
